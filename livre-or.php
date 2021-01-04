@@ -23,7 +23,7 @@ $baseddonnees = new PDO('mysql:host=localhost;dbname=livreor', 'root', '');
 
     <nav>
         <ul>
-            <li><a href="accueil-index.php">Accueil</a></li>
+            <li><a href="index.php">Accueil</a></li>
             <li><a href="livre-or.php">Livre dor</a></li>
             <li><a href="commentaire.php">Commentaire</a></li>
             <li><a href="profil.php">Modifier profil</a></li>

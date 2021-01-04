@@ -72,7 +72,7 @@ if(isset($_POST['forminscription']))
 
     <nav>
         <ul>
-            <li><a href="accueil-index.php">Accueil</a></li>
+            <li><a href="index.php">Accueil</a></li>
             <?php 
                 if (isset ($_SESSION['id'])) 
                 {?> 
